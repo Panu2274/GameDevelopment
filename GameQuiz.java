@@ -1,10 +1,10 @@
-package week1;
+
 
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class GameQuiz {
+public class NumberGuessing {
 
     private static final int MIN_NUMBER = 1;
     private static final int MAX_NUMBER = 100;
